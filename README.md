@@ -3,4 +3,4 @@ It's a gym based responsive landing page for style demonstrations
 
 Access the webpage link: https://gymfitlandingpage.rf.gd/
 Try the page on your smartphone too!
-<img src="preview.png">
+<br><br><img src="/landingpage/preview.png">
